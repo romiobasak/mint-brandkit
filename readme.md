@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/green/Full%20Logo.svg" alt="Logo">
+  <img src="https://raw.githubusercontent.com/Mint-Blockchain/mint-brandkit/main/assets/red/Full%20Logo.svg" alt="Logo">
 </p>
 
 Introducing **Brand Kit**
